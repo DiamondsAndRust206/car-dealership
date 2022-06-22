@@ -1,0 +1,16 @@
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\Car-Dealership.exe
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\Car-Dealership.deps.json
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\Car-Dealership.runtimeconfig.json
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\Car-Dealership.runtimeconfig.dev.json
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\Car-Dealership.dll
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\ref\Car-Dealership.dll
+C:\Users\ryani\desktop\car-dealership\bin\Debug\net5.0\Car-Dealership.pdb
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.csproj.AssemblyReference.cache
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.AssemblyInfoInputs.cache
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.AssemblyInfo.cs
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.csproj.CoreCompileInputs.cache
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.dll
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\ref\Car-Dealership.dll
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.pdb
+C:\Users\ryani\desktop\car-dealership\obj\Debug\net5.0\Car-Dealership.genruntimeconfig.cache
